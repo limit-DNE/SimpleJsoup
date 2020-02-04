@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jsoup Demo</string>
+    <string name="getData">Get Data</string>
+    <string name="imageDescription">Image fetched from website url</string>
+</resources>
